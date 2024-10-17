@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-16T13:03:11 IST" name="Suite" finished-at="2024-10-16T13:03:11 IST" duration-ms="108">
+    <groups>
+    </groups>
+    <test started-at="2024-10-16T13:03:11 IST" name="Test" finished-at="2024-10-16T13:03:11 IST" duration-ms="108">
+      <class name="testng1.Allannotations">
+        <test-method is-config="true" signature="bs()[pri:0, instance:testng1.Allannotations@145f66e3]" started-at="2024-10-16T13:03:11 IST" name="bs" finished-at="2024-10-16T13:03:11 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bs -->
+        <test-method is-config="true" signature="bc()[pri:0, instance:testng1.Allannotations@145f66e3]" started-at="2024-10-16T13:03:11 IST" name="bc" finished-at="2024-10-16T13:03:11 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bc -->
+        <test-method is-config="true" signature="bt()[pri:0, instance:testng1.Allannotations@145f66e3]" started-at="2024-10-16T13:03:11 IST" name="bt" finished-at="2024-10-16T13:03:11 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bt -->
+        <test-method signature="abc()[pri:0, instance:testng1.Allannotations@145f66e3]" started-at="2024-10-16T13:03:11 IST" name="abc" finished-at="2024-10-16T13:03:11 IST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- abc -->
+        <test-method is-config="true" signature="at()[pri:0, instance:testng1.Allannotations@145f66e3]" started-at="2024-10-16T13:03:11 IST" name="at" finished-at="2024-10-16T13:03:11 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- at -->
+        <test-method is-config="true" signature="bt()[pri:0, instance:testng1.Allannotations@145f66e3]" started-at="2024-10-16T13:03:11 IST" name="bt" finished-at="2024-10-16T13:03:11 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bt -->
+        <test-method signature="xyz()[pri:0, instance:testng1.Allannotations@145f66e3]" started-at="2024-10-16T13:03:11 IST" name="xyz" finished-at="2024-10-16T13:03:11 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- xyz -->
+        <test-method is-config="true" signature="at()[pri:0, instance:testng1.Allannotations@145f66e3]" started-at="2024-10-16T13:03:11 IST" name="at" finished-at="2024-10-16T13:03:11 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- at -->
+        <test-method is-config="true" signature="ac()[pri:0, instance:testng1.Allannotations@145f66e3]" started-at="2024-10-16T13:03:11 IST" name="ac" finished-at="2024-10-16T13:03:11 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ac -->
+        <test-method is-config="true" signature="as()[pri:0, instance:testng1.Allannotations@145f66e3]" started-at="2024-10-16T13:03:11 IST" name="as" finished-at="2024-10-16T13:03:11 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- as -->
+      </class> <!-- testng1.Allannotations -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
